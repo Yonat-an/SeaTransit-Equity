@@ -1,2 +1,2 @@
 # SeaTransit-Equity
-A chloropleth maps of Seattle's Transit Equity Score (TES)
+A chloropleth map of Seattle's Transit Equity Score (TES)
